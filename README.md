@@ -34,15 +34,3 @@ JavaScript (ES6+)
 ✅ Clear entry (AC), delete single character (C)
 
 ✅ Real-time input display and results using eval()
-
----
-
-🔐 Notes
-Uses eval() for simplicity. Avoid using it in production-level apps for security.
-
-^ is implemented as exponentiation using **.
-
----
-
-👨‍💻 Author
-Apoorva Panwar
